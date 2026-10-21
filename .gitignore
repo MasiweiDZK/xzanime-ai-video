@@ -1,0 +1,13 @@
+# Publish only the product README and its selected images.
+*
+!.gitignore
+!README.md
+!images/
+images/*
+!images/01-ai-video-example.jpg
+!images/02-template-start.jpg
+!images/03-tail-frame.jpg
+!images/04-series-preview.jpg
+!images/05-story-start.png
+!images/06-character-design.png
+!images/07-story-preview.png
